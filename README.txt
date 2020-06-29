@@ -1,1 +1,1 @@
-This branch is about learning
+a Dogs website project 
